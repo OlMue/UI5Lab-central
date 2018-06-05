@@ -2,23 +2,23 @@
 
 # What is it
 
-UI5Lab is a community driven repository for UI5 custom control libraries. Your contributions will drive our vision: A place where custom controls, templates, helper classes, and other code artifacts related to UI5 technology can be discovered and shared with the community. 
+UI5Lab is a community-driven repository for UI5 custom control libraries. Your contributions will drive our vision: A place where custom controls, templates, helper classes, and other code artifacts related to UI5 technology can be discovered and shared with the community. 
 
 # Get started
 
 #### Browse libraries and samples
-Have a look at the [UI5Lab browser](https://ui5lab.io/browser), where all current UI5Lab libraries and controls can be viewed
+Have a look at the [UI5Lab browser](https://ui5lab.io/browser), where all current UI5Lab libraries and controls can be viewed.
 
 #### Use a UI5Lab library in your app
-Follow the instructions in [this guide](https://github.com/UI5Lab/UI5Lab-central/blob/master/docs/ConsumeLibrary.md) or take a look at the [UI5Lab-app-simple](https://github.com/UI5Lab/UI5Lab-app-simple) project 
+Follow the instructions in [this guide](https://github.com/UI5Lab/UI5Lab-central/blob/master/docs/ConsumeLibrary.md), or take a look at the [UI5Lab-app-simple](https://github.com/UI5Lab/UI5Lab-app-simple) project.
 
 #### Contribute to UI5Lab
-Have a look at our [contributing guide](CONTRIBUTING.md) to help us with our mission
+Have a look at our [contributing guide](CONTRIBUTING.md) to help us with our mission.
 
 # Directions 
 
 * [Project Overview](https://github.com/UI5Lab/UI5Lab-central/blob/master/docs/Overview.md) - introduction to UI5Lab and information on all related repositories
-* [Documentation](https://github.com/UI5Lab/UI5Lab-central/tree/master/docs) - detailed description on all UI5Lab topics and tutorials   
+* [Documentation](https://github.com/UI5Lab/UI5Lab-central/tree/master/docs) - detailed description of all UI5Lab topics and tutorials   
 * [Homepage](https://ui5lab.io) - the single point of entry for all UI5Lab topics
 * [Browser](https://ui5lab.io/browser) - lists all libraries and examples in once central place
 
@@ -29,17 +29,17 @@ This repository contains essential project information and hosts central infrast
 
 Run the following commands to test or develop this project:
 
-1. Clone this repository to your local developer workspace
-1. Load npm dependencies without running their individual scripts with ```npm install --ignore-scripts```
-2. Load bower dependencies and copy all files to the correct places ```npm run postinstall``` 
-3. Run a local server for testing ```grunt serve``` 
-4. Go to [http://localhost:8080/test-resources/ui5lab/browser/](http://localhost:8080/test-resources/ui5lab/browser/) to display all available UI5Lab libraries
+1. Clone this repository to your local developer workspace.
+2. Load npm dependencies without running their individual scripts with ```npm install --ignore-scripts```.
+3. Load bower dependencies and copy all files to the correct places ```npm run postinstall```.
+4. Run a local server for testing ```grunt serve```.
+5. Go to [http://localhost:8080/test-resources/ui5lab/browser/](http://localhost:8080/test-resources/ui5lab/browser/) to display all available UI5Lab libraries.
 
-> **Note:** This project joins all individual code repositories (libraries and tools like the [UI5Lab browser](https://github.com/UI5Lab/UI5Lab-browser)) so that they can be viewed together. All required modules will be loaded to your local workspace automatically. You can easily modify the assets and test the changes immediately. The same environment manages the homepage of UI5Lab where all libraries are publicly listed. For more instructions check the documentation.
+> **Note:** This project joins all individual code repositories (libraries and tools like the [UI5Lab browser](https://github.com/UI5Lab/UI5Lab-browser)) so that they can be viewed together. All required modules will be loaded to your local workspace automatically. You can easily modify the assets and test the changes immediately. The same environment manages the homepage of UI5Lab where all libraries are publicly listed. For more instructions, check the documentation.
 
 # Troubleshooting
-Issues can be created either in this repository or in any of the contributor repositories depending on where the error came from.
-Be sure to include enough details and context to reproduce the issue and follow up with you. 
+Issues can be reported either in this repository or in any of the contributor repositories depending on the origin of the error.
+Be sure to include enough details and context so that the community can reproduce the issue and follow up with you. 
 
 # Contact
 We organize this project in [Slack Channel #UI5Lab](https://openui5.slack.com/messages/UI5lab).
