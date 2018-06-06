@@ -43,7 +43,7 @@ Be sure to include enough details and context to reproduce the issue and follow 
 
 # Contact
 We organize this project in [Slack Channel #UI5Lab](https://openui5.slack.com/messages/UI5lab).
-If you are interested in what we do and discuss, join with this [invitation link](http://slackui5invite.herokuapp.com/).
+If you are interested in what we do and diszcuss, join with this [invitation link](http://slackui5invite.herokuapp.com/).
 
 
 *The UI5Lab Community*
